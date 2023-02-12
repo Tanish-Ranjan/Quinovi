@@ -5,8 +5,8 @@ A free and easy to use chat app. Just create an account and we will generate a u
 Interestingly you don't need to worry about storage. The app is pretty light weight it self and all your data is kept secure over the cloud which enables you to access it from anywhere on the earth. No need to worry about backups!!
 Messages are also cached on your device so you can still access them when offline.
 
-## Quinovi v2.0
-### Development Sneak Peaks 👀
+## Quinovi v2.0 (Development Sneak Peaks 👀)
+
 <div style="display: flex">
   <img src="https://user-images.githubusercontent.com/62828604/218323905-518f6f7b-a5db-45fd-8b11-a3e68dc528e9.jpg" height="500">
   <img src="https://user-images.githubusercontent.com/62828604/218323909-dd67d40a-63aa-4b13-8129-de80b938e01c.jpg" height="500">

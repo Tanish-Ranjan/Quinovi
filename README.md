@@ -10,7 +10,8 @@ Whether you're looking to chat with friends or collaborate with colleagues, Quin
 
 ## Quinovi v2.0 (Development Sneak Peaks 👀)
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex">
+  
   <p align="center">
     <img src="https://user-images.githubusercontent.com/62828604/218323905-518f6f7b-a5db-45fd-8b11-a3e68dc528e9.jpg" height="500" alt="screenshot 1">
     <br>

@@ -53,4 +53,5 @@ Whether you're looking to chat with friends or collaborate with colleagues, Quin
                 height="500" alt="screenshot 7">
             <em>Profile Screen</em>
         </div>
+        
     </div>

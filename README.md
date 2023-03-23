@@ -10,10 +10,10 @@ Whether you're looking to chat with friends or collaborate with colleagues, Quin
 
 ## Quinovi v2.0 (Development Sneak Peaks 👀)
 
-![Welcome Screen](https://user-images.githubusercontent.com/62828604/218323905-518f6f7b-a5db-45fd-8b11-a3e68dc528e9.jpg "Welcome Screen" =500x)
+![Welcome Screen](https://user-images.githubusercontent.com/62828604/218323905-518f6f7b-a5db-45fd-8b11-a3e68dc528e9.jpg "Welcome Screen"){height="500"}
 <em>Fig.1 - Welcome Screen</em>
 
-![Login Screen](https://user-images.githubusercontent.com/62828604/218323909-dd67d40a-63aa-4b13-8129-de80b938e01c.jpg "Login Screen"){height="500px"}
+![Login Screen](https://user-images.githubusercontent.com/62828604/218323909-dd67d40a-63aa-4b13-8129-de80b938e01c.jpg "Login Screen"){height="500"}
 <em>Fig.2 - Login Screen</em>
 
 ![Register Screen - 1](https://user-images.githubusercontent.com/62828604/218323913-e2d3dbb4-7854-447f-8ed4-a21a132512d5.jpg "Register Screen - 1"){height="500px"}

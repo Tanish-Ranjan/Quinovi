@@ -10,41 +10,23 @@ Whether you're looking to chat with friends or collaborate with colleagues, Quin
 
 ## Quinovi v2.0 (Development Sneak Peaks 👀)
 
-<div style="display: flex; flex-wrap: wrap; flex-direction: row; row-gap: 3rem; column-gap: 2rem;">
+![Welcome Screen](https://user-images.githubusercontent.com/62828604/218323905-518f6f7b-a5db-45fd-8b11-a3e68dc528e9.jpg "Welcome Screen"){height="500px"}
+<em>Fig.1 - Welcome Screen</em>
 
-    <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="https://user-images.githubusercontent.com/62828604/218323905-518f6f7b-a5db-45fd-8b11-a3e68dc528e9.jpg" height="500" alt="screenshot 1">
-        <em>Welcome Screen</em>
-    </div>
+![Login Screen](https://user-images.githubusercontent.com/62828604/218323909-dd67d40a-63aa-4b13-8129-de80b938e01c.jpg "Login Screen"){height="500px"}
+<em>Fig.2 - Login Screen</em>
 
-    <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="https://user-images.githubusercontent.com/62828604/218323909-dd67d40a-63aa-4b13-8129-de80b938e01c.jpg" height="500" alt="screenshot 2">
-        <em>Login Screen</em>
-    </div>
+![Register Screen - 1](https://user-images.githubusercontent.com/62828604/218323913-e2d3dbb4-7854-447f-8ed4-a21a132512d5.jpg "Register Screen - 1"){height="500px"}
+<em>Fig.3 - Register Screen - 1</em>
 
-    <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="https://user-images.githubusercontent.com/62828604/218323913-e2d3dbb4-7854-447f-8ed4-a21a132512d5.jpg" height="500" alt="screenshot 3">
-        <em>Register Screen - 1</em>
-    </div>
+![Register Screen - 2](https://user-images.githubusercontent.com/62828604/218323914-9593f0a2-c614-4372-b451-d6cb62f6bcfa.jpg "Register Screen - 2"){height="500px"}
+<em>Fig.4 - Register Screen - 2</em>
 
-    <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="https://user-images.githubusercontent.com/62828604/218323914-9593f0a2-c614-4372-b451-d6cb62f6bcfa.jpg" height="500" alt="screenshot 4">
-        <em>Register Screen - 2</em>
-    </div>
+![Register Screen - 3](https://user-images.githubusercontent.com/62828604/218323918-763e3578-91bf-4131-9f3e-58273506f67a.jpg "Register Screen - 3"){height="500px"}
+<em>Fig.5 - Register Screen - 3</em>
 
-    <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="https://user-images.githubusercontent.com/62828604/218323918-763e3578-91bf-4131-9f3e-58273506f67a.jpg" height="500" alt="screenshot 5">
-        <em>Register Screen - 3</em>
-    </div>
+![Register Screen - 4](https://user-images.githubusercontent.com/62828604/218323921-efb89df7-2ab5-4fb9-91a9-e9f39bdaa042.jpg "Register Screen - 4"){height="500px"}
+<em>Fig.6 - Register Screen - 4</em>
 
-    <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="https://user-images.githubusercontent.com/62828604/218323921-efb89df7-2ab5-4fb9-91a9-e9f39bdaa042.jpg" height="500" alt="screenshot 6">
-        <em>Register Screen - 4</em>
-    </div>
-
-    <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="https://user-images.githubusercontent.com/62828604/218323925-def134d4-ef7b-4146-ba3a-79be7b47e672.jpg" height="500" alt="screenshot 7">
-        <em>Profile Screen</em>
-    </div>
-    
-</div>
+![Profile Screen](https://user-images.githubusercontent.com/62828604/218323925-def134d4-ef7b-4146-ba3a-79be7b47e672.jpg "Profile Screen"){height="500px"}
+<em>Fig.7 - Profile Screen</em>

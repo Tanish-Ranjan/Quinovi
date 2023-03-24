@@ -10,6 +10,8 @@ Whether you're looking to chat with friends or collaborate with colleagues, Quin
 
 ## Quinovi v2.0 (Development Sneak Peaks 👀)
 
+<div style="display: flex">
+
 <em>Fig.1 - Welcome Screen</em><br>
 <img src="https://user-images.githubusercontent.com/62828604/218323905-518f6f7b-a5db-45fd-8b11-a3e68dc528e9.jpg" alt="Welcome Screen" height="500" />
 
@@ -30,3 +32,5 @@ Whether you're looking to chat with friends or collaborate with colleagues, Quin
 
 <em>Fig.7 - Profile Screen</em><br>
 <img src="https://user-images.githubusercontent.com/62828604/218323925-def134d4-ef7b-4146-ba3a-79be7b47e672.jpg" alt="Profile Screen" height="500" />
+
+</div>
